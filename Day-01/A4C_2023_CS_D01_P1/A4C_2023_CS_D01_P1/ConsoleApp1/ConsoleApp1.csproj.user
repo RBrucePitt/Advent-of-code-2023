@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>C:\WIN32\Advent-of-code-2023\Day-01\Day-01-Input-Puzzle1.txt</StartArguments>
+  </PropertyGroup>
+</Project>
